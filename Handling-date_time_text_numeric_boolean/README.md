@@ -1,1 +1,0 @@
-# OCP Java SE 17 Developer Certification (1Z0-829)
